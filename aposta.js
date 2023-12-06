@@ -1,0 +1,1 @@
+aposta = alert('agora escolha o time');
